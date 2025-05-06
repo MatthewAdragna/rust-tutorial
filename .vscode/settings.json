@@ -1,0 +1,4 @@
+{
+    "vscode-neovim.useWSL": true,
+    "vscode-neovim.wslDistribution": "ubuntu"
+}
